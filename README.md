@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucasmd-dev/lucasmd-dev/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <h1 align="center">Lucas Marques David</h1>
 <p align="center">
   Backend Engineer • Java • Angular • PostgreSQL
@@ -61,4 +65,5 @@ Curated collection of development-related icon assets.
   <a href="https://www.linkedin.com/in/lucas-marques-david-383429246/">
     LinkedIn
   </a>
+
 </p>
