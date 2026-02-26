@@ -49,13 +49,13 @@ Curated development icon collection.
 - Security by design
 
 ---
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-marques-david-383429246/">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/lucas-marques-david-383429246/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Marques%20David-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lucasmd-dev/lucasmd-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
